@@ -1,0 +1,6 @@
+keras~=2.13.1
+numpy~=1.24.3
+tensorflow~=2.13.0
+SQLAlchemy~=2.0.19
+python-dotenv~=1.0.0
+google-api-python-client~=2.94.0
